@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm obaid Ashraf</h1>
+<h1 align="center">Hi 👋, I'm Obed Reh.</h1>
 <h3 align="center">A passionate python developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obaidrock78&label=Profile%20views&color=0e75b6&style=flat" alt="obaidrock78" /> </p>
 
 - 🔭 I’m currently working on *my personal projects.*
 
-- 🌱 I’m currently learning *Rust and C++*
+- 🌱 I’m currently learning *Pyhton*
 
 - 💬 Ask me about *Python, Django, FastApi and Flask*
 
