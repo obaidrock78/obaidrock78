@@ -1,8 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Obie</h1>
 <h3 align="center">Senior Software Engineer | Empowering Businesses with Advanced Analytics and Reporting Solutions</h3>
-
+<p align="center"><a href="https://django-portfolio-obaidrock78.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue" alt="Portfolio"></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obaidrock78&label=Profile%20views&color=0e75b6&style=flat" alt="obaidrock78" /> </p>
+
+
 
 🔸 **Who am I?**
 
