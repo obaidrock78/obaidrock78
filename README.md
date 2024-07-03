@@ -9,7 +9,7 @@
 🔸 **Who am I?**
 
 ✅ Over 7 years of experience in developing web applications and analytics solutions.  
-✅ Proficient in Python, Django, Node.js, React.js, and advanced analytics tools.  
+✅ Proficient in Python, Django, Node.js, React.js, Ruby, and advanced analytics tools.  
 ✅ Expertise in AWS and Azure cloud services for seamless data integration and management.  
 ✅ Skilled in building dynamic and insightful reports using Power BI and Tableau.  
 ✅ Experienced in implementing complex data warehouse solutions for optimized data management.  
