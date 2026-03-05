@@ -75,9 +75,17 @@ AI / ML      →  OpenAI API · LLMs · Machine Learning · Automation Pipelines
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=obaidrock78&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=obaidrock78&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=obaidrock78&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github" height="160"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidrock78&layout=compact&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidrock78&layout=compact&theme=default&hide_border=true&langs_count=6" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=obaidrock78&theme=flat&no-frame=true&column=6&margin-w=10" />
 </p>
 
 ---
