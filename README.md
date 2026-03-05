@@ -1,70 +1,109 @@
+<h1 align="center">Hi, I'm Obed (Obiee) Rehman 👋</h1>
 
-<h1 align="center">Hi 👋, I'm Obie</h1>
-<h3 align="center">Senior Software Engineer | Empowering Businesses with Advanced Analytics and Reporting Solutions</h3>
-<p align="center"><a href="https://django-portfolio-obaidrock78.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue" alt="Portfolio"></a></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=obaidrock78&label=Profile%20views&color=0e75b6&style=flat" alt="obaidrock78" /> </p>
+<h3 align="center">Principal Django & React Engineer · 8 Years · 15+ Countries · Managing Partner @ AspireX</h3>
 
-
-
-🔸 **Who am I?**
-
-✅ Over 7 years of experience in developing web applications and analytics solutions.  
-✅ Proficient in Python, Django, Node.js, React.js, Ruby, and advanced analytics tools.  
-✅ Expertise in AWS and Azure cloud services for seamless data integration and management.  
-✅ Skilled in building dynamic and insightful reports using Power BI and Tableau.  
-✅ Experienced in implementing complex data warehouse solutions for optimized data management.  
-✅ Strong knowledge of object-oriented programming (OOP) principles.  
-✅ Passionate about writing clean, maintainable, and efficient code.  
-✅ Excellent problem-solving and debugging skills.  
-✅ Experienced in NDA contracting to ensure confidentiality and trust.
-
-🔸 **What can I do for you?**
-
-✓ Transform raw data into strategic business insights with advanced analytics and reporting tools.  
-✓ Develop comprehensive reporting solutions tailored to your specific business needs.  
-✓ Design and implement data warehouse solutions for optimized data management.  
-✓ Integrate AWS, Azure, and Microsoft Dynamics for seamless data flow and enhanced reporting capabilities.  
-✓ Build and customize dashboards and visualizations using Power BI and Tableau.  
-✓ Provide full-stack web application development with Python, Django, and related technologies.  
-✓ Ensure data security and confidentiality through NDA contracting.
-
-🔭 I’m currently working on *my personal projects.*  
-🌱 I’m currently learning *Python*  
-💬 Ask me about *Python, Django, FastAPI, and Flask*  
-📫 How to reach me: *obaidrock78@gmail.com*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/obaidrock78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="obaidrock78ml" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8677625/obaid-ur-rehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11753731/obaid" height="30" width="40" /></a>
-<a href="https://instagram.com/obed.chaudhry_
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="obaidrock78" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://obaidrock78.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐 Portfolio-Visit Now-0a66c2?style=for-the-badge" alt="Portfolio"/></a>
+  &nbsp;
+  <a href="mailto:obedrehman63@gmail.com"><img src="https://img.shields.io/badge/📩 Hire Me-obedrehman63@gmail.com-c8922a?style=for-the-badge" alt="Email"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/obaidrock78" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=obaidrock78&label=Profile%20Views&color=0e75b6&style=flat" alt="obaidrock78"/>
+</p>
+
+---
+
+## 🚀 What I Build
+
+I'm a **Principal Software Engineer** and **Managing Partner at AspireX** — a remote engineering team that ships production-grade Django & React applications for startups and businesses worldwide.
+
+Over 8 years I've delivered:
+- ⚙️ **SaaS platforms** — multi-tenant, subscription-based, scalable
+- 🏢 **ERP & CRM systems** — 200+ users, real-time data, mobile apps
+- 🤖 **AI-integrated backends** — OpenAI, LLMs, automation pipelines
+- 📊 **Analytics & reporting** — Power BI, Tableau, data warehouses
+- 🛒 **E-commerce stores** — full-stack, payment-integrated
+- 📱 **Cross-platform mobile apps** — React Native (iOS + Android)
+
+---
+
+## 🛠️ Core Stack
+
+```
+Backend      →  Python · Django · DRF · FastAPI · Node.js · Celery · RabbitMQ · Redis
+Frontend     →  React.js · Vue.js · React Native · TypeScript · Bootstrap · Tailwind
+Database     →  PostgreSQL · MongoDB · SQLite · Redis
+Cloud / Ops  →  AWS · Azure · Docker · Nginx · CI/CD · Linux
+Analytics    →  Power BI · Tableau · Data Warehousing · Microsoft Dynamics
+AI / ML      →  OpenAI API · LLMs · Machine Learning · Automation Pipelines
+```
+
+---
+
+## 💼 Open For
+
+| | What | Details |
+|---|---|---|
+| 👨‍💻 | **Senior / Principal Engineering Role** | Remote · Full-time or Contract · Django / Python |
+| 🏗️ | **Project Build via AspireX** | MVP → Scale · Startups & SMBs · Fixed or Retainer |
+| 🔍 | **Architecture Review** | Free 30-min review for qualifying projects |
+
+📩 **Let's talk:** obedrehman63@gmail.com
+
+---
+
+## 🏆 Featured Projects
+
+### 🧹 [Book Cleany — NYC Cleaning ERP](https://bookcleany.com)
+> Full ERP for a cleaning company managing **200+ cleaners & 3,000 customers**
+> Built with Django · React Native · Live dispatcher · CRM · Billing · Mobile App
+> *Featured in NY Times, Bravo, Redfin*
+
+### 💬 [Disqus Plugin Integration](https://disqus.com)
+> Community engagement plugin serving **millions of publishers**
+> Python · Django · Web Development · API Integration
+
+### 🔒 [Privatize — Privacy Web App](https://privatize.co)
+> Django backend for a German privacy-tech SaaS
+> Led team of 5 · Delivered on time and within budget
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=obaidrock78&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidrock78&layout=compact&theme=default&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🌍 Experience Snapshot
+
+```
+AspireX LLC          →  Principal Engineer & Managing Partner       (2021 – Present)
+Saalz · France       →  Senior Django + React Engineer              (2025 – Present)
+Privatize · Germany  →  Senior Python/Django Developer              (2024 – 2025)
+Spotter Labs · USA   →  Backend Engineer · ML Engineer              (2023 – 2025)
+Navis Company        →  Senior Software Engineer                    (2020 – 2023)
+```
+
+---
+
+## 🤝 Connect
+
 <p align="left">
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-<a href="
+<a href="https://linkedin.com/in/obaidrock78" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+<a href="https://stackoverflow.com/users/8677625/obaid-ur-rehman" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40"/></a>
+<a href="mailto:obedrehman63@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building something? <a href="mailto:obedrehman63@gmail.com">Let's ship it together.</a></i>
+</p>
