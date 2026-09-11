@@ -18,7 +18,7 @@
 
 ## 🚀 What I Build
 
-I'm a **Principal Software Engineer** and **Managing Partner at AspireX** — a remote engineering team that ships production-grade Django & React applications for startups and businesses worldwide.
+I'm a **Principal Software Engineer** that ships production-grade Django & React applications for startups and businesses worldwide.
 
 Over 8 years I've delivered:
 - ⚙️ **SaaS platforms** — multi-tenant, subscription-based, scalable
