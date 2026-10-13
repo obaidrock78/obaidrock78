@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Obed (Obiee) Rehman 👋</h1>
 
-<h3 align="center">Principal Django & React Engineer · 8 Years · 15+ Countries · Managing Partner @ AspireX</h3>
+<h3 align="center">Principal Django & React Engineer · 8 Years · 15+ Countries </h3>
 
 <p align="center">
   <a href="https://obaidrock78.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐 Portfolio-Visit Now-0a66c2?style=for-the-badge" alt="Portfolio"/></a>
